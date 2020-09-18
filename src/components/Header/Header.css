@@ -1,0 +1,17 @@
+.menu{
+    margin-top: 20px;
+    margin-left: 94px;
+}
+.menu .item{
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.menu .item:hover{
+   background-color: royalblue;
+}
+.login-btn{
+    padding: 5px 15px;
+    background: goldenrod;
+    border-radius: 5px;
+    margin-left: 15px;
+}

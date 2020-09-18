@@ -1,0 +1,32 @@
+.form-container{
+    border: 1px solid black;
+    width: 400px;
+    margin-top: 50px;
+}
+form{
+    padding: 30px 40px;
+}
+.form-container h3{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.form-container input{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+.form-container input[type="checkbox"]{
+    width: 10%;
+}
+.form-container input::placeholder{
+    font-size: 14px;
+    color: black;
+}
+.form-container input[type="submit"]{
+    border-bottom: none;
+}
+.w-140{
+    width: 140px;
+}

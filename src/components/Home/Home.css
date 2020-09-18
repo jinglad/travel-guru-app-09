@@ -1,0 +1,30 @@
+.bg-home{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("../../Image/Rectangle1.png");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
+.dark-overlay{
+    background: rgba(0, 0, 0, .7);
+}
+.mt-160{
+    margin-top: 160px;
+}
+.little-description h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5.5rem;
+}
+.little-description p{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+}
+.little-description button{
+    font-size: 14px;
+}
+.booking-btn{
+    padding: 5px 14px;
+    border: none;
+    border-radius: 5px;
+    background: goldenrod;
+}
